@@ -1,0 +1,3 @@
+/home/intelnuc/Documents/vgd_rm2023_vision_nn/hikvision/build/CMakeFiles/hikvision.dir
+/home/intelnuc/Documents/vgd_rm2023_vision_nn/hikvision/build/CMakeFiles/edit_cache.dir
+/home/intelnuc/Documents/vgd_rm2023_vision_nn/hikvision/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhikvision.a CMakeFiles/hikvision.dir/src/HaiKangCamera.cpp.o
+/usr/bin/ranlib libhikvision.a
